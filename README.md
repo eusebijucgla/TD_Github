@@ -19,6 +19,6 @@ The path should reference the 'sites-package' folder, from the location you inst
 
 ### How it works
 
-Just copy the link of the repository as HTTPS and paste it in the component `Repository URL`.
+Just copy the link of the repository as HTTPS and paste it in the component `Repository URL` and clone.
 
 ![](Documentation/pastelink.jpg)
