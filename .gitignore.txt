@@ -1,4 +1,0 @@
-.gitignore
-Backup/
-TD_Github.toe
-TD_Github*.toe
