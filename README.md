@@ -15,3 +15,10 @@ After PyGithub is installed, you have to set the Pyhon Module path in TouchDesig
 The path should reference the 'sites-package' folder, from the location you installed python in your computer. As an example:
 
 `C:/Users/**your user**/AppData/Local/Programs/Python/Python35/Lib/site-packages`
+
+
+### How it works
+
+Just copy the link of the repository as HTTPS and paste it in the component `Repository URL`.
+
+![](Documentation/pastelink.jpg)
