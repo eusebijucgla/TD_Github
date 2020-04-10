@@ -10,7 +10,10 @@ This component uses [PyGithub](https://github.com/PyGithub/PyGithub) to clone an
 
 After PyGithub is installed, you have to set the Pyhon Module path in TouchDesigner.
 
-![](Documentation/preferences.jpg)
+<p align="center">
+  <img src="Documentation/preferences.jpg">
+</p>
+
 
 The path should reference the 'sites-package' folder, from the location you installed python in your computer. As an example:
 
@@ -21,4 +24,7 @@ The path should reference the 'sites-package' folder, from the location you inst
 
 Just copy the link of the repository as HTTPS and paste it in the component `Repository URL` and clone.
 
-![](Documentation/pastelink.jpg)
+
+<p align="center">
+  <img src="Documentation/pastelink.jpg">
+</p>
